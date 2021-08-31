@@ -1,4 +1,4 @@
-# Aviatrix-Demo-Onprem
+# Aviatrix-Demo-Onprem-Azure
 
 This module simplifies the creation of a CSR1KV in Azure with with External Connections to Aviatrix Gateways for simulating on-prem environments. The resources created by the module are pictured below:
 
